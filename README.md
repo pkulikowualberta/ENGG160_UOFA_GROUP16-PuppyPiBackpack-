@@ -1,6 +1,6 @@
 # designfiles
 Engg160 group 16 3-D cad files 
-These are all of the required files and schematic of the backpack design. 
+These are all of the required files and schematics/pictues of the backpack design. 
 
 The dxf file added of the backpack is slightly modified from all of the images and the stl file 
 
